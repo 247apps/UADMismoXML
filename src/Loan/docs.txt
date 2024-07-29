@@ -1,0 +1,20 @@
+These are the standard MISMO XML Schema files which are used by the iLAD Wrapper Schema. These are the same files that make up the MISMO Residential Specification version 3.4.0.
+
+
+MISMO_3.4.0_B324.xsd
+
+MISMOComplexTypeExtensionsB324.xsd
+
+MISMOComplexTypesB324.xsd
+
+MISMODataTypesB324.xsd
+
+MISMOEnumeratedTypesB324.xsd
+
+MISMOExtensionDetailsB324.xsd
+
+xlink.xsd
+
+xlinkMISMOB324.xsd
+
+xml.xsd
